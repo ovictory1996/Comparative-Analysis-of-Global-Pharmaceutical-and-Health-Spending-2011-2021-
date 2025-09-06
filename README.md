@@ -95,4 +95,12 @@ where several interactive dashboards and visualizations were created. These visu
    - Variation in GDP Allocation: Some countries, such as the United States, Germany, and France, consistently allocate a larger share of GDP to health.
    - Rising Health Expenditure Globally accross most countries, total health spending increased steadily between 2011 and 2021, reflecting growing investments in healthcare infrastructure, pharmaceuticals, and medical technologies.
    - Fastest-Growing Countries in Spending'Countries like South Korea and Chile recorded some of the fastest growth rates in total health spending, showing rapid improvements in healthcare investment.
+   - Population-Driven Spending: Larger countries such as USA, Japan, and Germany dominate in total spending, but when adjusted per capita, smaller wealthy nations like Luxembourg and Switzerland often lead.
+   - 
+## Summary-of-Analysis
+larger countries like the USA, Japan, and Germany record the highest total health spending due to their large populations. However, when adjusted per person, smaller wealthy nations such as Luxembourg and Switzerland lead in per capita spending, showing that citizens in these countries benefit from greater individual healthcare investment.
 
+
+## Conclusion
+The comparative analysis of global pharmaceutical and health spending (2011–2021) reveals clear patterns in healthcare investment worldwide. While large economies such as the United States, Japan, and Germany dominate in total health expenditure, smaller but wealthier nations like Luxembourg and Switzerland lead in per capita spending, reflecting higher individual investment in healthcare.
+This suggests that while healthcare systems are expanding globally, inequalities in access and affordability remain, and future policies must focus on improving efficiency, equity, and sustainability of healthcare financing worldwide.
