@@ -88,6 +88,5 @@ where several interactive dashboards and visualizations were created. These visu
   - Treemap
   - Tables
   - Summary Dashboard: All these visualizations were combined into a comprehensive dashboard with slicers and filters, allowing dynamic exploration of the data by year, country,
-
-
+  - ![Health2](dash1.png)
 
