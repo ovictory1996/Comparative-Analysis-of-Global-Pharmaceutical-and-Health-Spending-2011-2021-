@@ -83,11 +83,11 @@ The dataset on Global Pharmaceutical and Health Expenditure (1971–2021) was ob
 ## Visualizations:
 To better understand the trends and patterns in global health and pharmaceutical spending, the dataset was connected from PostgreSQL to Power BI,
 where several interactive dashboards and visualizations were created. These visualizations provide deeper insights into the data between 2011 and 2021.
-       - Map Visualization
-       - Line Charts (Trend Analysis)
-       - Treemap
-       - Tables
-       - Summary Dashboard: All these visualizations were combined into a comprehensive dashboard with slicers and filters, allowing dynamic exploration of the data by year, country,
+  - Map Visualization
+  - Line Charts (Trend Analysis)
+  - Treemap
+  - Tables
+  - Summary Dashboard: All these visualizations were combined into a comprehensive dashboard with slicers and filters, allowing dynamic exploration of the data by year, country,
 
 
 
