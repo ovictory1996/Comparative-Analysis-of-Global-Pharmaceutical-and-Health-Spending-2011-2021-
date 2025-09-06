@@ -52,14 +52,36 @@ The dataset on Global Pharmaceutical and Health Expenditure (1971–2021) was ob
        -  create a table HealthExpenditure using Columns and their bconstraints
         - ![Health](Creat.png)
    
-       - Importing the Dataset into SQL: The dataset, provided in CSV format, was imported into PostgreSQL for structured storage and analysis. Importing the CSV into SQL allowed for easier querying, aggregation, and integration with visualization tools.
+       - Importing the Dataset into SQL: The dataset, provided in CSV format, was imported into
+            PostgreSQL for structured storage and analysis. Importing the CSV into SQL allowed for easier
+       querying, aggregation, and integration with visualization tools.
    
-       - The dataset was analyzed using SQL to derive meaningful insights. After completing the analysis, the results were saved as a database view to simplify future queries and ensure consistency. This view was then connected to Power BI, where interactive dashboards and visualizations were created to better understand trends, patterns, and comparisons across countries between 2011 and 2021.
+       - The dataset was analyzed using SQL to derive meaningful insights. After completing
+         the analysis, the results were saved as a database view to simplify future queries and ensure
+        consistency. This view was then connected to Power BI, where interactive dashboards and visualizations were
+        created to better understand trends, patterns, and comparisons across countries between 2011 and 2021.
+       - ![Health](anal1.png)
+       - ![Health](anal2.png)
+   
+
+
+
+   
+ - Powerbi: created several measures using DAX (Data Analysis Expressions) to perform dynamic calculations. These measures included  total health spending, average share of GDP spent on health and number of country.
       - Data visualization 
       - Dashboard development 
       - Insight Generation 
        
 ### ## Data Analysis:
+       - Trend over Years
+       - Estimated_population
+       - Sum of Gdp, Sum of percapita by country_fullname
+       - Avg_Gdp_sum_of_total_Health_spending
+
+
+
+       
+
 
 
 
