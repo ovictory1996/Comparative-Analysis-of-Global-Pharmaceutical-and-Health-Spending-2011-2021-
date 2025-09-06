@@ -51,8 +51,10 @@ The dataset on Global Pharmaceutical and Health Expenditure (1971–2021) was ob
        -  Creating a new Database called Health_Spending
        -  create a table HealthExpenditure using Columns and their bconstraints
        - ![Health](Creat.png)
+       -Imorting the Dataset csv file to Sql
+       - The dataset was analyzed using SQL to derive meaningful insights. After completing the analysis, the results were saved as a database view to simplify future queries and ensure consistency. This view was then connected to Power BI, where interactive dashboards and visualizations were created to better understand trends, patterns, and comparisons across countries between 2011 and 2021
        
-
+### ## Data Analysis:
 
 
 
