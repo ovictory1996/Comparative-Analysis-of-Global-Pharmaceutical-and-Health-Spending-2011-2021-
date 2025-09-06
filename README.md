@@ -90,3 +90,9 @@ where several interactive dashboards and visualizations were created. These visu
   - Summary Dashboard: All these visualizations were combined into a comprehensive dashboard with slicers and filters, allowing dynamic exploration of the data by year, country,
   - ![Health2](dash1.png)
 
+
+## Insight from analysis
+   - Variation in GDP Allocation: Some countries, such as the United States, Germany, and France, consistently allocate a larger share of GDP to health.
+   - Rising Health Expenditure Globally accross most countries, total health spending increased steadily between 2011 and 2021, reflecting growing investments in healthcare infrastructure, pharmaceuticals, and medical technologies.
+   - Fastest-Growing Countries in Spending'Countries like South Korea and Chile recorded some of the fastest growth rates in total health spending, showing rapid improvements in healthcare investment.
+
